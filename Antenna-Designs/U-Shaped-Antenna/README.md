@@ -2,33 +2,33 @@
 
 ## Overview
 
-This folder contains the design, simulation results, and technical documentation for the **U-Shaped Microstrip Antenna** developed using **ANSYS HFSS**.
+The U-shaped microstrip antenna is one of the antenna configurations developed and analysed in this repository. The design was modelled and simulated using **ANSYS HFSS** to investigate the effect of a U-shaped slot on the antenna's impedance bandwidth and radiation characteristics.
 
-The antenna was designed and analyzed to evaluate its electromagnetic performance, including return loss, impedance matching, gain, radiation characteristics, and VSWR.
-
----
-
-## Contents
-
-- Antenna Geometry
-- Design Parameters
-- Return Loss (S11)
-- VSWR
-- Smith Chart
-- Gain Analysis
-- Radiation Pattern
-- Simulation Screenshots
-- Project Documentation
+The antenna was evaluated through full-wave electromagnetic simulation, with performance assessed using return loss (S11), VSWR, Smith chart, gain, and far-field radiation pattern. The obtained results contribute to the comparative analysis of the three antenna geometries presented in this repository.
 
 ---
 
-## Software Used
+## Design Objectives
 
-- ANSYS HFSS
+The objectives of this antenna design include:
+
+- Investigate the influence of the U-shaped slot on antenna performance.
+- Analyse impedance matching and bandwidth characteristics.
+- Evaluate radiation performance and gain.
+- Study the antenna's electromagnetic behaviour through simulation.
+- Compare its performance with T-shaped and H-shaped antenna configurations.
 
 ---
 
-## Performance Parameters
+## Design Parameters
+
+The detailed design parameters, substrate specifications, operating frequency, and dimensional values are available in the project documentation included in this repository.
+
+---
+
+## Simulation Results
+
+The following simulation results are included for this antenna:
 
 - Return Loss (S11)
 - VSWR
@@ -36,13 +36,4 @@ The antenna was designed and analyzed to evaluate its electromagnetic performanc
 - Gain
 - Radiation Pattern
 
----
-
-## Applications
-
-- Wireless Communication
-- RF Engineering Studies
-- Antenna Design Learning
-- Academic Research
-
----
+The corresponding figures will be added in this section.
