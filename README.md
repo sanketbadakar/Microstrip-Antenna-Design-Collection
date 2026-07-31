@@ -244,6 +244,11 @@ The antenna designs presented in this repository provide a foundation for furthe
 - Investigation of compact and multiband antenna configurations for next-generation communication systems.
 - Extension of the design methodology to other antenna geometries and frequency bands.
 ---
+# Author 
+
+## Sanket Badakar
+
+**Antenna Design | ANSYS HFSS | RF Engineering | Electromagnetic Simulation**
 
 ## Connect with Me
 
