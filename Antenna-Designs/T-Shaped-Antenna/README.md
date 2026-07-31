@@ -46,9 +46,3 @@ The antenna was designed to evaluate its electromagnetic performance through ful
 - Academic Research
 
 ---
-
-## Status
-
-✅ Design Completed  
-✅ Simulation Completed  
-📄 Documentation Included
