@@ -154,10 +154,6 @@ The T-shaped microstrip antenna is one of the three antenna configurations inclu
 - Gain Analysis
 - Radiation Pattern
 
-### Geometry
-
-> Geometry image will be added here.
-
 ### Simulation Results
 
 | Parameter | Status |
@@ -185,10 +181,6 @@ The U-shaped microstrip antenna was developed to investigate the influence of a 
 - Gain Analysis
 - Radiation Pattern
 
-### Geometry
-
-> Geometry image will be added here.
-
 ### Simulation Results
 
 | Parameter | Status |
@@ -215,10 +207,6 @@ The H-shaped microstrip antenna was designed to analyse its electromagnetic char
 - Smith Chart
 - Gain Analysis
 - Radiation Pattern
-
-### Geometry
-
-> Geometry image will be added here.
 
 ### Simulation Results
 
