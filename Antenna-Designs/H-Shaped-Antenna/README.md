@@ -47,8 +47,3 @@ The antenna was designed and simulated to analyze its electromagnetic performanc
 
 ---
 
-## Status
-
-✅ Design Completed  
-✅ Simulation Completed  
-📄 Documentation Included
