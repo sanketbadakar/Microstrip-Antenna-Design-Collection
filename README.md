@@ -53,7 +53,6 @@ This repository contains the following antenna designs:
 - [Simulation Results](#simulation-results)
 - [Applications](#applications)
 - [Future Improvements](#future-improvements)
-- [Documentation](#documentation)
 - [Author](#author)
 ---
 
