@@ -25,9 +25,9 @@ The primary objectives of this project are:
 
 ## Software Used
 
-| Software | Purpose |
-|-----------|----------|
-| ANSYS HFSS | Antenna modelling and electromagnetic simulation |
+| Software | 
+|-----------|
+| ANSYS HFSS | 
 
 ---
 
