@@ -251,6 +251,6 @@ The antenna designs presented in this repository provide a foundation for furthe
 
 ## Connect with Me
 
-If you have suggestions, feedback, or would like to discuss antenna design, RF engineering, or electromagnetic simulation, feel free to connect through my GitHub profile.
+If you have suggestions, feedback, or would like to support about design, RF engineering, or electromagnetic simulation, feel free to connect through my GitHub profile.
 
 ⭐ **If you find this repository useful, consider giving it a star.**
