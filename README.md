@@ -57,6 +57,8 @@ This repository contains the following antenna designs:
 - [Author](#author)
 ---
 
+---
+
 ## Design Methodology
 
 The antenna designs presented in this repository were modelled and analysed using **ANSYS HFSS**, a three-dimensional full-wave electromagnetic simulation software widely used for RF and microwave engineering applications.
@@ -64,7 +66,6 @@ The antenna designs presented in this repository were modelled and analysed usin
 Each antenna was developed following a consistent engineering workflow to ensure a fair comparison of its electromagnetic characteristics. The modelling process included antenna geometry creation, substrate and material definition, feed implementation, simulation setup, and performance evaluation. The simulated results were analysed using key antenna performance parameters such as **return loss (S11)**, **VSWR**, **Smith chart**, **gain**, and **far-field radiation patterns**.
 
 The same methodology was applied to the **T-shaped**, **U-shaped**, and **H-shaped** microstrip antenna designs, allowing their performance characteristics to be evaluated under comparable simulation conditions.
----
 
 ## Technical Specifications
 
@@ -77,6 +78,22 @@ The same methodology was applied to the **T-shaped**, **U-shaped**, and **H-shap
 | **Performance Parameters Evaluated** | Return Loss (S11), VSWR, Smith Chart, Gain and Radiation Pattern |
 | **Documentation** | Design methodology, simulation results and project report |
 | **Primary Application** | Wireless Communication Studies and Antenna Performance Analysis |
+---
+---
+
+# Antenna Collection
+
+This repository presents the design and electromagnetic performance analysis of three different microstrip antenna configurations developed using **ANSYS HFSS**. Each antenna geometry has been designed and evaluated independently to study its impedance characteristics, radiation behaviour, and overall electromagnetic performance.
+
+The antenna collection includes the following designs:
+
+| Antenna | Description |
+|----------|-------------|
+| **T-Shaped Microstrip Antenna** | A compact microstrip antenna designed to evaluate the influence of a T-shaped radiating element on antenna performance. |
+| **U-Shaped Microstrip Antenna** | A modified microstrip antenna incorporating a U-shaped slot configuration to analyse its effect on impedance matching and radiation characteristics. |
+| **H-Shaped Microstrip Antenna** | A microstrip antenna featuring an H-shaped radiating structure for comparative analysis of return loss, gain, and radiation performance. |
+
+Each antenna is documented individually with its design geometry, simulation results, and performance analysis in the following sections.
 ---
 
 # Simulation Workflow
