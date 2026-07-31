@@ -79,9 +79,8 @@ The same methodology was applied to the **T-shaped**, **U-shaped**, and **H-shap
 | **Documentation** | Design methodology, simulation results and project report |
 | **Primary Application** | Wireless Communication Studies and Antenna Performance Analysis |
 ---
----
 
-# Antenna Collection
+# Antenna Designs
 
 This repository presents the design and electromagnetic performance analysis of three different microstrip antenna configurations developed using **ANSYS HFSS**. Each antenna geometry has been designed and evaluated independently to study its impedance characteristics, radiation behaviour, and overall electromagnetic performance.
 
