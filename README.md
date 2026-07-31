@@ -62,10 +62,17 @@ This repository contains the following antenna designs:
 
 The antenna designs presented in this repository were modelled and analysed using **ANSYS HFSS**, a three-dimensional full-wave electromagnetic simulation software widely used for RF and microwave engineering applications.
 
-Each antenna was developed following a consistent engineering workflow to ensure a fair comparison of its electromagnetic characteristics. The modelling process included antenna geometry creation, substrate and material definition, feed implementation, simulation setup, and performance evaluation. The simulated results were analysed using key antenna performance parameters such as **return loss (S11)**, **VSWR**, **Smith chart**, **gain**, and **far-field radiation patterns**.
+## Design Techniques
 
-The same methodology was applied to the **T-shaped**, **U-shaped**, and **H-shaped** microstrip antenna designs, allowing their performance characteristics to be evaluated under comparable simulation conditions.
+Different design techniques were implemented to investigate and enhance the electromagnetic performance of each antenna configuration.
 
+| Antenna Configuration | Design Technique |
+|----------------------|------------------|
+| **T-Shaped Microstrip Antenna** | Defected Ground Structure (DGS) |
+| **U-Shaped Microstrip Antenna** | Parasitic Elements Method |
+| **H-Shaped Microstrip Antenna** | Parasitic Elements Method |
+
+The selected design techniques were employed to study their influence on impedance matching, resonant characteristics, bandwidth, gain, and radiation performance. The resulting antenna characteristics were analysed through electromagnetic simulation and comparative performance evaluation.
 ## Technical Specifications
 
 | Parameter | Specification |
@@ -78,6 +85,20 @@ The same methodology was applied to the **T-shaped**, **U-shaped**, and **H-shap
 | **Documentation** | Design methodology, simulation results and project report |
 | **Primary Application** | Wireless Communication Studies and Antenna Performance Analysis |
 ---
+## Technical Specifications
+
+The following technical specifications were adopted during the design and simulation of the proposed microstrip antenna configurations.
+
+| Specification | Details |
+|--------------|---------|
+| **Operating Frequency** | 5.25 GHz |
+| **Substrate Material** | FR-4 Epoxy |
+| **Relative Dielectric Constant (εr)** | 4.4 |
+| **Loss Tangent (tan δ)** | 0.0019 |
+| **Patch Material** | Perfect Electric Conductor (PEC) |
+| **Ground Plane Material** | Perfect Electric Conductor (PEC) |
+| **Simulation Software** | ANSYS HFSS |
+| **Geometry Verification** | CST Microwave Studio |
 
 # Antenna Designs
 
