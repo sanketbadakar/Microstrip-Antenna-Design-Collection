@@ -125,3 +125,128 @@ Result Analysis
 ```
 
 The simulation results obtained from this workflow include return loss (S11), VSWR, Smith chart, gain, and radiation pattern, providing a comprehensive evaluation of each antenna design.
+---
+
+# T-Shaped Microstrip Antenna
+
+## Overview
+
+The T-shaped microstrip antenna is one of the three antenna configurations included in this project. It was designed and simulated using **ANSYS HFSS** to evaluate its electromagnetic performance for wireless communication applications.
+
+### Key Features
+
+- Designed using ANSYS HFSS
+- Microstrip Patch Antenna
+- Electromagnetic Performance Analysis
+- Return Loss (S11)
+- VSWR
+- Smith Chart
+- Gain Analysis
+- Radiation Pattern
+
+### Geometry
+
+> Geometry image will be added here.
+
+### Simulation Results
+
+| Parameter | Status |
+|-----------|--------|
+| Return Loss (S11) | ✅ |
+| VSWR | ✅ |
+| Smith Chart | ✅ |
+| Gain | ✅ |
+| Radiation Pattern | ✅ |
+---
+
+# U-Shaped Microstrip Antenna
+
+## Overview
+
+The U-shaped microstrip antenna was developed to investigate the influence of a U-shaped radiating structure on impedance matching and radiation characteristics. The antenna was modelled and analysed using **ANSYS HFSS**.
+
+### Key Features
+
+- Designed using ANSYS HFSS
+- Microstrip Patch Antenna
+- Return Loss (S11)
+- VSWR
+- Smith Chart
+- Gain Analysis
+- Radiation Pattern
+
+### Geometry
+
+> Geometry image will be added here.
+
+### Simulation Results
+
+| Parameter | Status |
+|-----------|--------|
+| Return Loss (S11) | ✅ |
+| VSWR | ✅ |
+| Smith Chart | ✅ |
+| Gain | ✅ |
+| Radiation Pattern | ✅ |
+---
+
+# H-Shaped Microstrip Antenna
+
+## Overview
+
+The H-shaped microstrip antenna was designed to analyse its electromagnetic characteristics and compare its performance with the other antenna geometries included in this repository.
+
+### Key Features
+
+- Designed using ANSYS HFSS
+- Microstrip Patch Antenna
+- Return Loss (S11)
+- VSWR
+- Smith Chart
+- Gain Analysis
+- Radiation Pattern
+
+### Geometry
+
+> Geometry image will be added here.
+
+### Simulation Results
+
+| Parameter | Status |
+|-----------|--------|
+| Return Loss (S11) | ✅ |
+| VSWR | ✅ |
+| Smith Chart | ✅ |
+| Gain | ✅ |
+| Radiation Pattern | ✅ |
+---
+
+# Applications
+
+The proposed dual-band T-shaped, U-shaped, and H-shaped microstrip antennas are designed for modern wireless communication systems requiring compact size, dual-band operation, and stable electromagnetic performance. The potential application areas include:
+
+- **Wireless Local Area Networks (WLAN)** – Suitable for dual-band Wi-Fi communication in routers, access points, and wireless adapters.
+- **Internet of Things (IoT) and Smart Home Devices** – Compact and lightweight structure enables easy integration into IoT modules and smart home systems.
+- **Mobile and Portable Communication Devices** – Applicable for laptops, tablets, smartphones, and wearable devices requiring reliable wireless connectivity.
+- **Bluetooth and Short-Range Wireless Systems** – Supports short-range communication technologies such as Bluetooth, Zigbee, and wireless sensor networks.
+- **WiMAX and 5G Sub-6 GHz Communication** – Can be adapted for WiMAX and Sub-6 GHz 5G wireless communication applications through appropriate frequency optimization.
+- **Industrial and Vehicular Communication Systems** – Suitable for industrial automation, machine-to-machine (M2M), and vehicle-to-vehicle (V2V) communication systems where dependable wireless links are required.
+---
+
+# Future Work
+
+The antenna designs presented in this repository provide a foundation for further research and development. Future enhancements may include:
+
+- Fabrication and experimental validation of the antenna prototypes.
+- Performance comparison between simulated and measured results.
+- Bandwidth enhancement through advanced feeding techniques and optimization methods.
+- Design optimization for specific wireless communication standards.
+- Investigation of compact and multiband antenna configurations for next-generation communication systems.
+- Extension of the design methodology to other antenna geometries and frequency bands.
+---
+
+## Connect with Me
+
+If you have suggestions, feedback, or would like to discuss antenna design, RF engineering, or electromagnetic simulation, feel free to connect through my GitHub profile.
+
+⭐ **If you find this repository useful, consider giving it a star.**
