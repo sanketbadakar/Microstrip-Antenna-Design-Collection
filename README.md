@@ -73,17 +73,7 @@ Different design techniques were implemented to investigate and enhance the elec
 | **H-Shaped Microstrip Antenna** | Parasitic Elements Method |
 
 The selected design techniques were employed to study their influence on impedance matching, resonant characteristics, bandwidth, gain, and radiation performance. The resulting antenna characteristics were analysed through electromagnetic simulation and comparative performance evaluation.
-## Technical Specifications
 
-| Parameter | Specification |
-|-----------|---------------|
-| **Project Title** | HFSS Antenna Design Portfolio |
-| **Software** | ANSYS HFSS |
-| **Antenna Category** | Microstrip Patch Antennas |
-| **Antenna Configurations** | T-Shaped, U-Shaped and H-Shaped |
-| **Performance Parameters Evaluated** | Return Loss (S11), VSWR, Smith Chart, Gain and Radiation Pattern |
-| **Documentation** | Design methodology, simulation results and project report |
-| **Primary Application** | Wireless Communication Studies and Antenna Performance Analysis |
 ---
 ## Technical Specifications
 
