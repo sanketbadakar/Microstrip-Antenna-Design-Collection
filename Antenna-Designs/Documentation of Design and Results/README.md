@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains the complete technical documentation for the **HFSS Antenna Design Portfolio**. The documentation presents the design, simulation, and performance evaluation of **T-shaped, U-shaped, and H-shaped microstrip antennas** developed using **ANSYS HFSS** for wireless communication applications. It serves as the primary technical reference accompanying this repository. :contentReference[oaicite:0]{index=0}
+This directory contains the complete technical documentation for the **HFSS Antenna Design Portfolio**. The documentation presents the design, simulation, and performance evaluation of **T-shaped, U-shaped, and H-shaped microstrip antennas** developed using **ANSYS HFSS** for wireless communication applications. It serves as the primary technical reference accompanying this repository.
 
 ## Included Document
 
